@@ -1,2 +1,3 @@
 # text-recognize
 Reconhecimento de textos em imagens
+# python_opencv_colab
